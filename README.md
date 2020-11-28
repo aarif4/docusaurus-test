@@ -9,5 +9,5 @@ sudo npm install -g npx
 npx docusaurus-init .
 # will make website/ and docs/ folder. No error should pop up
 # do a git commit
-# open a web browser and go to: <git_username>.github.com/docusaurus-test
+# open a web browser and go to: <git_username>.github.io/docusaurus-test
 ```
